@@ -4,6 +4,16 @@ Um projeto que tem por objetivo unir ONG's e pessoas com vontade de fazer o bem.
 Foi desenvolvido durante a Semana OmniStack 11.0, oferecida pela @Rocketseat;
 No Backend foi utilizado o NodeJs, no banco de dados Sqlite, Celebrate para validação e Jest nos testes; No Frontend foi utilizado React no desenvolvimento web e React Native no desenvolvimento mobile, contando com auxílio do Expo.
 
+## Technologies
+
+- NodeJs
+- Sqlite
+- Celebrate
+- Jest
+- ReactJs
+- React Native
+- Expo
+
 ## Features
 
 - A ONG poderá fazer login na aplicação;
@@ -30,9 +40,11 @@ No Backend foi utilizado o NodeJs, no banco de dados Sqlite, Celebrate para vali
 ## Getting started
 
 **Backend**
-npm install
-npm start
+
+- npm install
+- npm start
 
 **Frontend**
-npm install
-npm start
+
+- npm install
+- npm start
